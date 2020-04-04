@@ -180,7 +180,9 @@ public:
 
         for (float i = 0; i < resolution; i++){
             vec2 v = _o + normalize(((_p1 - _o) * (1.0f - i / (resolution - 1)) ) + ((_p2 - _o) * i / (resolution - 1))) * _radius;
-            if(i > 0) {
+            
+///Itt is lehet, hogy valamit elrontottam, semmiképp se másold le
+	    if(i > 0) {
                 _iv_len += distance(iv.back(), v);
             }
             iv.emplace_back(v);
@@ -361,11 +363,14 @@ void onKeyboardUp(unsigned char key, int pX, int pY) {
 void onMouseMotion(int pX, int pY) {
 }
 
+
+///Itt sajnos valamit elrontottam, semmiképp se másold le
 float distance(vec2 v1, vec2 v2){
     auto d = v2 - v1;
     return length(d) / (1 - dot(v1, v1));
 }
 
+///Itt sajnos valamit elrontottam, semmiképp se másold le
 float hajlasszog(vec2 v1, vec2 v2){
     return acosf((dot (v1 - v2, v1 - v2) - dot(v1, v1) - dot (v2, v2)) / 2.0f / length(v1) / length(v2));
 }
