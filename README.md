@@ -9,7 +9,7 @@ Ismert hibák a megoldásban:
 - hibás a szög- és a hossz-számítás
 
 Értékelés:
--2 megszerezhető pontból 2, javító komment nélkül. Így a fentebb ismertetett hibákra nem fogok tudni megoldást keresni: már elegem van a feladatból.
+- 2 megszerezhető pontból 2, javító komment nélkül. Így a fentebb ismertetett hibákra nem fogok tudni megoldást keresni: már elegem van a feladatból.
 
 HA HÁZIT ÍRSZ:
 Szívesen segítek, ha fel tudsz mutatni valamit, valószínűleg el tudom mondani, hogy hol lehet hibás. Előtte mindenképp olvasd el a leadó portálon felsorolt gyakori hibákat, és ellenőrizd a kódod: azon, hogy nem fut, nem tudok segíteni.
