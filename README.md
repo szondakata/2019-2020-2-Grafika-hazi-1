@@ -7,3 +7,15 @@ A Szíriusz csillagképből érkező földönkívülieknek megtetszett a Word, P
 Ismert hibák a megoldásban:
 - alacsony felbontás esetén a kitöltő algoritmus "áthúzhat" az íven. A megoldás jó közelítés a fülvágó algoritmus kikerülésére
 - hibás a szög- és a hossz-számítás
+
+Értékelés:
+-2 megszerezhető pontból 2, javító komment nélkül. Így a fentebb ismertetett hibákra nem fogok tudni megoldást keresni: már elegem van a feladatból.
+
+HA HÁZIT ÍRSZ:
+Szívesen segítek, ha fel tudsz mutatni valamit, valószínűleg el tudom mondani, hogy hol lehet hibás. Előtte mindenképp olvasd el a leadó portálon felsorolt gyakori hibákat, és ellenőrizd a kódod: azon, hogy nem fut, nem tudok segíteni.
+
+HA NEM BME-SKÉNT ÉRDEKEL A GRAFIKA:
+Ha az egyetemi anyagokat szeretnéd külsősként megszerezni, akkor kérd az előadótól, oda fogja adni. Hagyj engem ki abból, hogy nem mersz levelet írni olyannak, akinek dr-ral kezdődik a neve.
+
+Ps.
+Ha valamiért azt hiszed, hogy a kapcsolatfelvételre a Facebook a megfelő felület, akkor keress mást: nem válaszolok. Kivéve a barátaimnak, de ők meg tudják.
