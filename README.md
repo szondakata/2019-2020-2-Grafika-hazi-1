@@ -12,10 +12,13 @@ Ismert hibák a megoldásban:
 - 2 megszerezhető pontból 2, javító komment nélkül. Így a fentebb ismertetett hibákra nem fogok tudni megoldást keresni: már elegem van a feladatból.
 
 HA HÁZIT ÍRSZ:
-Szívesen segítek, ha fel tudsz mutatni valamit, valószínűleg el tudom mondani, hogy hol lehet hibás. Előtte mindenképp olvasd el a leadó portálon felsorolt gyakori hibákat, és ellenőrizd a kódod: azon, hogy nem fut, nem tudok segíteni.
+ - Szívesen segítek, ha fel tudsz mutatni valamit, valószínűleg el tudom mondani, hogy hol lehet hibás. Ha nem grafika-probléma, henem inkább C++ jellegű a baj, mindenképp olvasd el a leadó portálon felsorolt gyakori hibákat, és ellenőrizd a kódod: azon, hogy nem fut, nem tudok segíteni. Sőt! Nagy valószínűséggel fordítani és futtatni sem fogom tudni a kódod, csak a szövegben tudok hibákat keresni. Nem vagyok nagy elsőházi mester (ahogyan ez a fülvágás kikerüléséből sejthető), ezt előre leszögezem, a raytraceing jobban megy.
+ - Ha elindulni nem sikerül: a BSS youtube-ján van fent konzi anyag, illetve Szirmay-Kalos László youtube-ján vannak rövid kódolós videók. Ezek alapján el lehet indulni. Érdemes nem csak a zöld háromszög dummy-ból kiindulni, ott vannak a smoothtriangle, a bezier cpp-k, amelyek megmutatják a bonyolultabb programok szervezésének módját. A glut működését ezeken szerintem jobban meg lehet érteni.
 
 HA NEM BME-SKÉNT ÉRDEKEL A GRAFIKA:
-Ha az egyetemi anyagokat szeretnéd külsősként megszerezni, akkor kérd az előadótól, oda fogja adni. Hagyj engem ki abból, hogy nem mersz levelet írni olyannak, akinek dr-ral kezdődik a neve.
+ - Ha az egyetemi anyagokat szeretnéd külsősként megszerezni, akkor kérd az előadótól, oda fogja adni. Hagyj engem ki abból, hogy nem mersz levelet írni olyannak, akinek dr-ral kezdődik a neve.
+ - Szívesen segítek nem-adminisztratív kérdésekben.
 
 Ps.
-Ha valamiért azt hiszed, hogy a kapcsolatfelvételre a Facebook a megfelő felület, akkor keress mást: nem válaszolok. Kivéve a barátaimnak, de ők meg tudják.
+Ha valamiért azt hiszed, hogy a kapcsolatfelvételre a Facebook a megfelő felület, akkor keress mást: nem válaszolok. 
+Email.
