@@ -9,7 +9,7 @@ Ismert hibák a megoldásban:
 - hibás a szög- és a hossz-számítás
 
 Értékelés:
-- 2 megszerezhető pontból 2, javító komment nélkül. Így a fentebb ismertetett hibákra nem fogok tudni megoldást keresni: már elegem van a feladatból.
+- 2 megszerezhető pontból 2, javító komment nélkül. Így a fentebb ismertetett hibákra nem fogok megoldást keresni.
 
 HA HÁZIT ÍRSZ:
  - Szívesen segítek, ha fel tudsz mutatni valamit, valószínűleg el tudom mondani, hogy hol lehet hibás. Ha nem grafika-probléma, henem inkább C++ jellegű a baj, mindenképp olvasd el a leadó portálon felsorolt gyakori hibákat, és ellenőrizd a kódod: azon, hogy nem fut, nem tudok segíteni. Sőt! Nagy valószínűséggel fordítani és futtatni sem fogom tudni a kódod, csak a szövegben tudok hibákat keresni. Nem vagyok nagy elsőházi mester (ahogyan ez a fülvágás kikerüléséből sejthető), ezt előre leszögezem, a raytraceing jobban megy.
@@ -20,5 +20,4 @@ HA NEM BME-SKÉNT ÉRDEKEL A GRAFIKA:
  - Szívesen segítek nem-adminisztratív kérdésekben.
 
 Ps.
-Ha valamiért azt hiszed, hogy a kapcsolatfelvételre a Facebook a megfelő felület, akkor keress mást: nem válaszolok. 
-Email.
+Messengeren ne keress, emailen inkább
